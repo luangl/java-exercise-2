@@ -1,0 +1,28 @@
+Algoritmo "Hora de Acordar"
+
+Inicio
+   1. Levantar da cama
+      1.1 - Abrir os olhos
+      1.1 - Desligar o despertador
+      1.2 - Esticar o corpo e sentar na cama
+      1.3 - Colocar os pés no chão e levantar
+   2. Lavar o rosto
+      2.1 - Ir até o banheiro
+      2.2 - Molhar as mãos com água
+      2.3 - Aplique sabonete no rosto
+      2.4 - Enxague bem o rosto com água
+   3. Vestir-se
+      3.1 - Escolha as roupas adequadas para o dia
+      3.2 - Vista-se confortavelmente
+      3.3 - Calce os sapatos
+   4. Tomar café da manhã
+      4.1 - Vá até a cozinha
+      4.2 - Ligue a cafeteira
+      4.3 - Aguarde a preparação do café
+      4.4 - Prepare ou pegue outros alimentos para o café da manhã
+      4.5 - Comer café da manhã
+      4.6 - Lave a louça utilizada
+   5. Preparar-se para o dia
+      5.1 - Escovar os dentes
+
+Fim Algoritmo
